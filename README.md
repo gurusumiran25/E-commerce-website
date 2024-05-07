@@ -1,4 +1,4 @@
-# Ecommerce Website
+# Ecommerce Website fontend
 
 This is an e-commerce website built using full-stack web development technologies. The website allows users to browse products and services online.
 
